@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = GUIModdingTemplate
+build_property.ProjectDir = C:\Modding\GUIModdingTemplate\bobamod2\src\Content\GUIModdingTemplate\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
